@@ -1,0 +1,2 @@
+digraph { 
+"mundo" -> "uno""uno" -> "dos""dos" -> "universidad""universidad" -> "practica""practica" -> "ingeniero""ingeniero" -> "juego""juego" -> "mesa""mesa" -> "correo""correo" -> "informacion""informacion" -> "comerciante""comerciante" -> "uvas"}
